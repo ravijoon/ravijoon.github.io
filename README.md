@@ -1,4 +1,4 @@
 # ravijoon.github.io
 
-Official porfolio of Ravi Joon, 
+Official porfolio of Ravi Joon at Github pages
 
